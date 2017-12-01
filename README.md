@@ -14,6 +14,7 @@ This was made for a final project in a computational audio class in Spring 2017 
 - the .mp4 file is an example rendering of the last code cell in the iPython notebook
 - a more detailed description/analysis is in the final report pdf
 - cs591utilities.py and parts of Part 1 in novelty_scores.ipynb are provided by Wayne Snyder
+- music provided in repository is NOT owned by me, and is purely meant for educational purposes (necessary for running the code)
 
 ## References
 - http://musicweb.ucsd.edu/~sdubnov/CATbox/Reader/p77-foote.pdf
