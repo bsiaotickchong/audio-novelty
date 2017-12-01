@@ -2,7 +2,7 @@
 Based on papers about automatic audio segmentation using a measure of audio novelty
 
 ## Motivation
-This was made for a final project in a computational audio class in Spring 2017 in collaboration with professor Wayne Snyder at Boston University. Motivation for the methods are in several papers referenced below.
+This was made for a final project in a computational audio class in Spring 2017, taught by professor Wayne Snyder at Boston University. Motivation for the methods are in several papers referenced below.
 
 ## Running this code
 - install Jupyter Notebook (comes with the Anaconda distribution)
